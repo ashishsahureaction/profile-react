@@ -1,0 +1,55 @@
+{
+    "portfolio": [
+      
+        {
+            "cover": "/portfolio/1/one.png",
+            "title": "NEXT.JS",
+            "description": "React, JSX, Tailwind, Jest",
+            "url": "http://google.com"
+        },
+        {
+            "cover": "/portfolio/1/one.png",
+            "title": "REACT.JS",
+            "description": "React, JSX, Tailwind, Jest",
+            "url": "http://google.com"
+        },
+        {
+            "cover": "/portfolio/1/one.png",
+            "title": "ANGULAR",
+            "description": "React, JSX, Tailwind, Jest",
+            "url": "http://google.com"
+        },
+        {
+            "cover": "/portfolio/1/one.png",
+            "title": "REDUX",
+            "description": "React, JSX, Tailwind, Jest",
+            "url": "http://google.com"
+        },
+        {
+            "cover": "/portfolio/1/one.png",
+            "title": "NODE.JS",
+            "description": "React, JSX, Tailwind, Jest",
+            "url": "http://google.com"
+        },
+        
+        {
+            "cover": "/portfolio/1/one.png",
+            "title": "GITHUB",
+            "description": "React, JSX, Tailwind, Jest",
+            "url": "http://google.com"
+        },
+        {
+            "cover": "/portfolio/1/one.png",
+            "title": "AGILE",
+            "description": "React, JSX, Tailwind, Jest",
+            "url": "http://google.com"
+        }
+        ,
+        {
+            "cover": "/portfolio/1/one.png",
+            "title": "CRM",
+            "description": "React, JSX, Tailwind, Jest",
+            "url": "http://google.com"
+        }
+    ]
+}
